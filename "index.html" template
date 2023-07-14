@@ -1,4 +1,30 @@
 <doctype! html>
-  <head>
-    
-  </head>
+  <html>
+          <head>
+  <meta charset="UTF-8">
+  <meta name="og:description" content="Description of page in preview here">
+  <meta name="og:keywords" content="keywords here">
+  <meta name="og:author" content="name of author here">
+  <meta name="og:image" content="preview image here">
+  <meta name="og:viewport" content="width=device-width, initial-scale=1.0">
+</head>
+    <head>
+      <title>Title here</title>
+      <h4>subtitle here</h4>
+    </head>
+    <style>
+      head {
+background-color: lightblue;
+      }
+  body {
+  background-color: lightblue; 
+}
+  
+    </style>
+    <body>
+<*main content here*>
+</body>
+<footer>
+  <a href="https://rayces.github.io/pg#/index.html">Page #</a>
+</footer>
+  </html>
